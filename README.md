@@ -19,6 +19,14 @@ Pré-requisitos: Compilador de C++, como o GCC
 ## Problemas Resolvidos
 | Problema | Enunciado | Solução | Dificuldade | Autor da Resolução |
 | -- | -- | -- | -- | -- |
+| 1 | - | - | - | Gustavo Melo |
+| 2 | - | - | - | Gustavo Melo |
+| 3 | - | - | - | Gustavo Melo |
+| 4 | - | - | - | João Artur Leles|
+| 5 | - | - | - | João Artur Leles|
+| 6 | - | - | - | João Artur Leles|
+
+
 
 
 ## Vídeos de Apresentação

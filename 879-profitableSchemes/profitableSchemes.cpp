@@ -21,7 +21,7 @@ public:
 
                     // Incluir o esquema atual (se houver membros suficientes)
                     if (membrosAtuais >= membrosDoEsquema) {
-                        // Lucro que precisava ser obtido pelos esquemas anteriores.
+                        // Lucro que precisava ser obtido pelos esquemas anteriores
                         int lucroAnteriorNecessario = max(0, lucroAlcancado - lucroDoEsquema);
                         
                         pd[idxEsquema][membrosAtuais][lucroAlcancado] = (pd[idxEsquema][membrosAtuais][lucroAlcancado] + pd[idxEsquema - 1][membrosAtuais - membrosDoEsquema][lucroAnteriorNecessario]) % MOD;

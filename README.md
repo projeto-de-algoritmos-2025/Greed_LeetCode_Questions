@@ -23,11 +23,8 @@ Pré-requisitos: Compilador de C++, como o GCC
 | 2 | - | - | - | Gustavo Melo |
 | 3 | - | - | - | Gustavo Melo |
 | 4 | [879](https://leetcode.com/problems/profitable-schemes/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode_Questions/blob/main/879-profitableSchemes/profitableSchemes.cpp) | Difícil | João Artur Leles|
-| 5 | - | - | - | João Artur Leles|
+| 5 | [1449](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode_Questions/blob/main/1449-form-largest-integer-with-digits-that-add-up-to-target/integerDigits.cpp) | Difícil | João Artur Leles|
 | 6 | - | - | - | João Artur Leles|
-
-
-
 
 ## Vídeos de Apresentação
 - [Vídeo de apresentação dos problemas 1, 2 e 3]().

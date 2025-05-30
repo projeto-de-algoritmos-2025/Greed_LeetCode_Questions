@@ -22,7 +22,7 @@ Pré-requisitos: Compilador de C++, como o GCC
 | 1 | - | - | - | Gustavo Melo |
 | 2 | - | - | - | Gustavo Melo |
 | 3 | - | - | - | Gustavo Melo |
-| 4 | - | - | - | João Artur Leles|
+| 4 | [630](https://leetcode.com/problems/course-schedule-iii/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode_Questions/blob/main/630-course-schedule-iii/courseSchedule.cpp) | Difícil | João Artur Leles|
 | 5 | - | - | - | João Artur Leles|
 | 6 | - | - | - | João Artur Leles|
 

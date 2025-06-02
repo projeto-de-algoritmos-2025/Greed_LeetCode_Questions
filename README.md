@@ -19,13 +19,12 @@ Pré-requisitos: Compilador de C++, como o GCC
 ## Problemas Resolvidos
 | Problema | Enunciado | Solução | Dificuldade | Autor da Resolução |
 | -- | -- | -- | -- | -- |
-| 1 | - | - | - | Gustavo Melo |
-| 2 | - | - | - | Gustavo Melo |
-| 3 | - | - | - | Gustavo Melo |
+| 1 | [410](https://leetcode.com/problems/split-array-largest-sum/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode_Questions/blob/main/410-split-array-largest-sum/solution.cpp)  | Difícil | Gustavo Melo |
+| 2 | [502](https://leetcode.com/problems/ipo/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode_Questions/blob/main/502-ipo/solution.cpp)  | Difícil | Gustavo Melo |
+| 3 | [871](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode_Questions/blob/main/871-minimum-number-of-refueling-stops/solution.cpp)  | Difícil | Gustavo Melo |
 | 4 | [630](https://leetcode.com/problems/course-schedule-iii/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode_Questions/blob/main/630-course-schedule-iii/courseSchedule.cpp) | Difícil | João Artur Leles|
 | 5 | [330](https://leetcode.com/problems/patching-array/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode_Questions/blob/main/330-patching-array/patchingArray.cpp) | Difícil | João Artur Leles|
 | 6 | [135](https://leetcode.com/problems/candy/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode_Questions/blob/main/135-candy/candy.cpp) | Difícil | João Artur Leles|
 
 ## Vídeos de Apresentação
-- [Vídeo de apresentação dos problemas 1, 2 e 3]().
-- [Vídeo de apresentação dos problemas 4, 5 e 6]().
+- [Vídeo de apresentação]().

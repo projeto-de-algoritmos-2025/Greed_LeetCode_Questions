@@ -27,4 +27,4 @@ Pré-requisitos: Compilador de C++, como o GCC
 | 6 | [135](https://leetcode.com/problems/candy/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode_Questions/blob/main/135-candy/candy.cpp) | Difícil | João Artur Leles|
 
 ## Vídeos de Apresentação
-- [Vídeo de apresentação]().
+- [Vídeo de apresentação](https://youtu.be/z0TUNyixjUw).
